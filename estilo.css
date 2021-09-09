@@ -32,11 +32,22 @@ p#songs{
     color: hsl(224, 23%, 55%);
     padding: 0px 20px;
     line-height: 1.5;
+    margin-bottom: 30px;
 }
 
 .annual{
     background-color: hsl(225, 100%, 98%);
     padding: 20px;
+    margin: -10px;
+    border-radius: 10px;
+    line-height: 1;
+}
+
+p#change{
+    display: flex ;
+    justify-content: right;
+    margin-top: -50px;
+
 }
 
 p#cancel{
